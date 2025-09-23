@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@acentrity/components/*": ["src/components/*"],
+        "@acentrity/lib/*": ["src/components/ui/*"]
+    }
+  },
+  "include": ["src"]
+}
